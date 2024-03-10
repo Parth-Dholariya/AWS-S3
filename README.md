@@ -13,5 +13,5 @@ used AWS S3 to host image gallery website
 
 ![image Gall1](https://github.com/Parth-Dholariya/AWS-S3/assets/92844674/1ea4d60b-2c5e-476f-98d1-ffb9be508b7c)
 
-> Click any image
+ Click any image
 ![image Gall2](https://github.com/Parth-Dholariya/AWS-S3/assets/92844674/ddc080ad-e47d-403a-9144-d4a20b0b2ace)
