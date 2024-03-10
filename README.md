@@ -10,4 +10,6 @@ used AWS S3 to host image gallery website
 6. copy the link from bottom of the static website hosting in properties section and paste in the browser
 
 ## Output
-https://github.com/Parth-Dholariya/AWS-S3/issues/1#issue-2177502484
+
+![image Gall1](https://github.com/Parth-Dholariya/AWS-S3/assets/92844674/1ea4d60b-2c5e-476f-98d1-ffb9be508b7c)
+![image Gall2](https://github.com/Parth-Dholariya/AWS-S3/assets/92844674/ddc080ad-e47d-403a-9144-d4a20b0b2ace)
